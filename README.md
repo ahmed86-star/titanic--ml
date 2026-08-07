@@ -1,6 +1,6 @@
 # Titanic Survival Prediction: An Honest ML Workflow
 
-Final project for my machine learning course at Franklin University. Binary
+Binary
 classification on the Kaggle Titanic dataset (891 labeled passengers), built
 around one question:
 
